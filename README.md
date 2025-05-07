@@ -11,7 +11,7 @@ Key Features - The dashboard offers the following visualizations and information
 6. Sales by Payment Mode: Illustrates the distribution of sales across different Payment Modes (Cards, COD, Online). 
 7. Sales by Segment: Displays the sales distribution across different customer Segments (Corporate, Home Office, Consumer). 
 8. Sales by Category: Shows the sales contribution of broader product Categories (Office Supplies, Technology, Furniture).
-9. 
+   
 The purpose of this dashboard aims to provide stakeholders with a clear and concise overview of the super store's sales performance.
 By visualizing key metrics and trends, it facilitates informed decision-making in areas such as inventory management, marketing strategies, and customer segmentation. 
 
